@@ -3,6 +3,7 @@
 #include "sub.c"
 #include "fact.c"
 #include "pow.c"
+#include "mul.c"
 int main(){
 
 add(1,2);
